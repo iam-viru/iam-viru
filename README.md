@@ -25,9 +25,9 @@
 ### 🅵🆁🅾🅽🆃🅴🅽🅳 – Frontend Expertise
 
 - 🔸 Angular 15+
-- 🔸 HTML / CSS / JavaScript / jQuery
+- 🔸 HTML / CSS / Javascript / typescript
 - 🔸 Responsive UI Design
-- 🔸 Azure CI/CD for Frontend Deployments
+- 🔸 Azure CI/CD 
 
 ---
 
