@@ -16,7 +16,7 @@
 
 ### 🌐 Currently Working On
 
-🛡️ **Azure AD B2C (Entra External ID)**  
+🛡️ **Entra External ID(Azure AD B2C)**  
 🔗 Implementing **customer identity and access management (CIAM)** using **Entra External ID**  
 💻 Integration of **Angular frontends** with **.NET Core backends**  
 
