@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0078D7">Virender Thakur</span></h1>
-<h3 align="center">Senior .NET Developer | Azure DevOps CI/CD| Full-Stack Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | Azure DevOps CI/CD| Full-Stack Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Experienced+in+.NET%2C+CI%2FCD%2C+Azure+DevOps;Web+%26+Desktop+Developer;Entra+ID+(Azure+AD+B2C)" alt="Typing SVG" />
