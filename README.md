@@ -68,12 +68,12 @@
 - [**Loan Management API**](https://github.com/iam-viru/LoanManagementAPI) – .NET 8 API with Angular frontend.  
 - [**Client Invoice Generator**](https://github.com/iam-viru/ClientInvoiceGenerator) – WinForms + SQLite + OpenXML.  
 - [**TrackSolid API Integration**](https://github.com/iam-viru/TrackSolidAPI) – Console app for GPS device integration.  
-
+<!--
 ### 🛠️ Other Projects  
 - [**ERP System (Modular Monolith)**](https://github.com/iam-viru/ERPSystem) – HR, Training, Sales, Reports modules.  
 - [**PPE Detection (ML.NET + ONNX)**](https://github.com/iam-viru/PPEDetection) – AI-based helmet detection.  
 - [**Azure DevOps CI/CD Demo**](https://github.com/iam-viru/AzureDevOpsCICD) – Pipelines, testing, scanning, artifact cleanup.  
-
+-->
 ---
 
 ## 📈 GitHub Stats  
