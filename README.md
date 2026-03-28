@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#0078D7">Virender Thakur</span></h1>
-<h3 align="center">Full-Stack Developer | Azure DevOps CI/CD | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer |AI & Modern Development | Azure DevOps CI/CD | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Experienced+in+.NET%2C+CI%2FCD%2C+Azure+DevOps;Web+%26+Desktop+Application+Developer;Entra+ID+(Azure+AD+B2C)+Integration" alt="Typing SVG" />
@@ -58,6 +58,22 @@
 ---
 
 ## 📌 Projects  
+
+### 🤖 AI & Modern Development 
+- Claude AI (prompt engineering, architecture planning, system design workflows)
+- ChatGPT (code generation, debugging, API design, rapid prototyping)
+- AI-assisted development lifecycle (idea → design → implementation → testing)
+- Experience integrating AI into real-world full-stack applications
+
+
+### ⚡ Additional Tech Exposure 
+
+- Node.js + Express (TypeScript backend development)
+- Vite (modern frontend tooling & bundling)
+- Stripe Checkout (secure payment integrations)
+- SendGrid (transactional email systems – OTP & onboarding flows)
+- Session-based state handling & frontend flow orchestration
+- API retry strategies, timeout handling, and error normalization
 
 ### 🌐 Web Projects  
 - [**Charity Foundation**](https://github.com/iam-viru/CharityFoundation) – ASP.NET Core MVC + EF Core + SQL Server.  
