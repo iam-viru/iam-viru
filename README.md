@@ -28,12 +28,14 @@
 ## 🖥️ Tech Stack  
 
 ### 🅵🆁🅾🅽🆃🅴🅽🅳 – Frontend Expertise  
-- Angular 15+  
+- Angular 15+
+- TypeScript, Vite (modern frontend tooling)
 - HTML / CSS / JavaScript / TypeScript  
 - Responsive UI Design  
 - Azure CI/CD  
 
 ### 🅱🅰🅲🅺🅴🅽🅳 – Backend & .NET Stack  
+- Node.js + Express (TypeScript)
 - .NET Core / .NET 6+  
 - ASP.NET MVC & Web Forms  
 - C#, VB.NET  
@@ -45,6 +47,7 @@
 - SQLite  
 - MongoDB  
 
+### AI-assisted development workflow
 ### ⚙️ DevOps & Tools  
 
 <p align="left">
@@ -60,7 +63,7 @@
 ## 📌 Projects  
 
 ### 🤖 AI & Modern Development 
-- Claude AI (prompt engineering, architecture planning, system design workflows)
+- Claude Code
 - ChatGPT (code generation, debugging, API design, rapid prototyping)
 - AI-assisted development lifecycle (idea → design → implementation → testing)
 - Experience integrating AI into real-world full-stack applications
